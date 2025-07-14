@@ -4,8 +4,7 @@ projects on js basics
 ## PROJECT LINK
 [click here](https://stackblitz.com/edit/stackblitz-starters-mlsobw5c?file=index.html)
 
-# link 
-[click here](https://stackblitzstartersmlsobw5c-1sss-dku6uoxj--8080--96435430.local-credentialless.webcontainer.io)
+
 
 # solution code
 
