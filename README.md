@@ -1,2 +1,2 @@
-# js-projects
+# colour changer 
 projects on js basics
