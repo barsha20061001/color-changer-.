@@ -5,7 +5,7 @@ projects on js basics
 [click here](https://stackblitz.com/edit/stackblitz-starters-mlsobw5c?file=index.html)
 
 # Live site
-https://barsha20061001.github.io/js-projects/
+[Live Demo](https://barsha20061001.github.io/js-projects/)
 
 # Screenshot 
 of the project when clicked on olivedrab color
