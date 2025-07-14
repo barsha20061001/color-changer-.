@@ -17,16 +17,16 @@ span {
   border: solid black 2px;
   display: inline-block;
 }
-  #grey {
-    background: grey;
+  #palevioletred {
+    background: palevioletred;
   }
   
   #white {
     background: white;
   }
-  #blue {
-    background: blue;
+  #blueviolet {
+    background: blueviolet;
   }
-  #yellow {
-    background: yellow;
+  #olivedrab {
+    background: olivedrab;
   }
