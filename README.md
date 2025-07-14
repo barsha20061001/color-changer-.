@@ -4,7 +4,7 @@ projects on js basics
 ## PROJECT LINK
 [click here](https://stackblitz.com/edit/stackblitz-starters-mlsobw5c?file=index.html)
 
-👉 [Click here to view the live site](https://stackblitzstartersmlsobw5c-1sss-dku6uoxj--8080--96435430.local-credentialless.webcontainer.io/)
+
 
 # Screenshot 
 of the project when clicked on olivedrab color
