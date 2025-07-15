@@ -7,6 +7,35 @@
 # 🌟 Live site
 [Live Demo](https://barsha20061001.github.io/js-projects/)
 
+
+# 🛠️ Tech Stack
+
+💻 HTML – Structure of the web page
+
+🎨 CSS – Styling and layout design
+
+⚙️ JavaScript – Interactive color changing logic
+
+🌐 Browser APIs – For DOM manipulation and event handling
+
+
+# ✨ Features
+
+🎨 Change background color with a click
+
+🌈 Cycle through a palette of predefined colors
+
+🎲 Generate random colors dynamically
+
+🖱️ User-friendly buttons for easy interaction
+
+📱 Responsive design for all screen sizes
+
+🔧 Lightweight and easy to customize
+
+💻 Built with pure HTML, CSS, and JavaScript
+
+
 # 👀 Preview
 of the project when clicked on olivedrab color
 
