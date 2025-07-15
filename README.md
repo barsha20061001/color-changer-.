@@ -12,11 +12,16 @@ of the project when clicked on olivedrab color
 
 <img width="1917" height="966" alt="Screenshot 2025-07-14 213321" src="https://github.com/user-attachments/assets/00784165-8f97-4a32-bb4f-294130971fc8" />
 
-# color-changer/
+# color-changer
+
 ├── 📄 index.html        # Main HTML file
+
 ├── 🎨 style.css         # CSS for styling
+
 ├── ⚙️ script.js         # JavaScript for color change logic
+
 ├── 📸 preview.png       # (Optional) Screenshot of the app
+
 ├── 📃 README.md         # Project description and instructions
 
 # 🧑‍💻 Author
